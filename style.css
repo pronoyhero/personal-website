@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1{
+        font-size: 55px;
+        color: darkcyan;
+    }
+    #size{
+        font-size: 35px;
+    }
+    #layer{
+        text-align: center;
+    }
+    .first-highlight{
+        font-size: 40px;
+        color: rgba(0, 81, 255, 0.808);
+    }
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 100%;
+    }
+    p{
+        color: darkslategray;
+        font-size: 20px;
+    }
+    .top-background{
+        background-image: url(b-images/header-bg.png);
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: rgba(255, 174, 0, 0.936);
+        
+        padding: 10px 20px;
+        border-radius: 10px;
+        color: white;
+        font-weight: 700;
+    }
+    h2{
+        text-align: center;
+        color: rgba(0, 81, 255, 0.808);
+    }
+    .second-banner{
+        background-image: url(b-images/biography-bg.png);
+        background-repeat: no-repeat;
+    }
+    #change{
+        background-color: rgba(255, 20, 184, 0.852);
+    }
